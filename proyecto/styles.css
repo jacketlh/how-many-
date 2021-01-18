@@ -1,0 +1,52 @@
+body{
+    background-image: url("clock2.jpg");
+}
+
+.titulo{
+    color: #0a0c00;
+    background-color: #9c9c9c;
+    padding: 60px;
+    text-align: center;
+    opacity: 0.5;
+}
+.list{
+    margin: auto;
+    width: 50%;
+}
+.list a{
+    
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 150px;
+    display: inline-block;
+    padding: 60px;
+    margin: 20px;
+    text-align: center;
+    font-family: fantasy;
+    
+}
+#navidad{
+    background-color: #ff0202;
+    color: white;
+    border-radius: 1cm;
+}
+#año{
+    background-color:#403E3B;
+    color:  #F2D95C;
+    border-radius: 1cm;
+}
+#hallo{
+    background-color: orange;
+    color: black;
+    border-radius: 1cm;
+}
+.cumple{
+    background-color: orange;
+    color: black;
+    border-radius: 1cm;
+}
+.thanks{
+    background-color: orange;
+    color: black;
+    border-radius: 1cm;
+}
