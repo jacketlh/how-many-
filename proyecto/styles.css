@@ -27,6 +27,7 @@ body{
 }
 #navidad{
     background-color: #ff0202;
+    background-image: url("navidad.png");
     color: white;
     border-radius: 1cm;
 }
@@ -37,6 +38,7 @@ body{
 }
 #hallo{
     background-color: orange;
+    background-image: url("halloween.png");
     color: black;
     border-radius: 1cm;
 }
