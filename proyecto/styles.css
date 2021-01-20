@@ -32,8 +32,9 @@ body{
     border-radius: 1cm;
 }
 #año{
-    background-color:#403E3B;
-    color:  #F2D95C;
+    background-color:#1D1A26;
+    background-image: url("newyear.png");
+    color:  #D9B779;
     border-radius: 1cm;
 }
 #hallo{
